@@ -1,0 +1,10 @@
+streamlit==1.24.1
+openai==0.27.8
+twilio==7.17.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.3
+pypdf==3.11.1
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.6.2
+scikit-learn==1.2.2
